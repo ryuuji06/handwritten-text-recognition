@@ -11,7 +11,7 @@ I implemented the whole process (preprocessing, training and prediction steps) f
 The model used in this task has 6 layers:
 
  - Conv2D layer, 32 kernels of size 3x3, unit stride, followed by ReLU activation and 2x2 Max Pooling;
- - Conv2D layer, 62 kernels of size 3x3, unit stride, followed by ReLU activation and 2x2 Max Pooling;
+ - Conv2D layer, 64 kernels of size 3x3, unit stride, followed by ReLU activation and 2x2 Max Pooling;
  - Dense layer, followed by ReLU activation and dropout, with 64 units that process separately each data slice from left to right;
  - Bidirectional LSTM layer with 128 units;
  - Bidirectional LSTM layer with 64 units;
