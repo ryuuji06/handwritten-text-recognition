@@ -1,0 +1,14 @@
+
+TRAINING DESCRIPTION
+
+TRAIN_TEST_SPLIT = 0.8
+BATCH_SIZE = 32
+
+# preprocessing settings
+HEIGHT = 50 # standardized image height
+MAX_ASPECT_RATIO = 4 # width/height ratio to the full padded image
+MAX_TEXT_LEN = 5 # for IAM: 93
+VOCAB_SIZE = 19 # for IAM: 79
+
+# model parameters
+model_params = [32, 64, 64, 128, 64]
