@@ -23,7 +23,7 @@ The training and validation loss along the training process is depicted below.
 
 <img src="https://github.com/ryuuji06/handwritten-text-recognition/blob/main/images/ex_hist.png" width="500">
 
-The figure below shows a test input image and the corresponding output of the network (probabilities of each token). The last token (cyan) is the null character token, inherent of the CTC algorithm, and encodes no actual character. Note that the model detected correctly the characters present in the captcha image in the correct order. However, the CTC algorithm to duplicate the predicted characters in a row (interval in which the probability of this character iss higher than the others), and thus I still need to perform some posterior handling to remove duplicates.
+The figure below shows a test input image and the corresponding output of the network (probabilities of each token). The last token (cyan) is the null character token, inherent of the CTC algorithm, and encodes no actual character. Note that the model detected correctly the characters present in the captcha image in the correct order. However, the CTC algorithm tends to duplicate the predicted characters in a row (interval in which the probability of this character is higher than the others), and thus I still need to perform some posterior handling to remove duplicates.
 
 <img src="https://github.com/ryuuji06/handwritten-text-recognition/blob/main/images/ex_captcha.png" width="800">
 
