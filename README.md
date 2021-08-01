@@ -8,8 +8,6 @@ I implemented the whole process (preprocessing, training and prediction steps) f
 
 ## Sample result
 
-![image](ex_hist.pdf)
-
 ## References
 
 [1] A. Graves, S. Fernandez, F. Gomez and J. Schmidhuber. Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks. Proceedings of the 23rd International Conference on Machine Learning (ICML'06), p.369-376, 2006
