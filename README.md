@@ -8,7 +8,7 @@ I implemented the whole process (preprocessing, training and prediction steps) f
 
 ## Sample result
 
-![](ex_hist.pdf)
+![image](ex_hist.pdf)
 
 ## References
 
