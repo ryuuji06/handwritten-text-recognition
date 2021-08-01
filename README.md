@@ -8,7 +8,7 @@ I implemented the whole process (preprocessing, training and prediction steps) f
 
 ## Sample result
 
-![alt text](https://github.com/ryuuji06/handwritten-text-recognition/blob/main/ex_hist.pdf?raw=true)
+![alt text](/ex_hist.pdf)
 
 ## References
 
