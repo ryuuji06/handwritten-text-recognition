@@ -8,8 +8,9 @@ I implemented the whole process (preprocessing, training and prediction steps) f
 
 ## Sample result
 
-![](images/ex_hist.png)
 <img src="https://github.com/ryuuji06/handwritten-text-recognition/blob/main/images/ex_hist.png" width="500">
+
+<img src="https://github.com/ryuuji06/handwritten-text-recognition/blob/main/images/ex_captcha.png" width="800">
 
 ## References
 
