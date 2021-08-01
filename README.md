@@ -11,12 +11,9 @@ I implemented the whole process (preprocessing, training and prediction steps) f
 
 ## References
 
-[1] A. Graves, S. Fernandez, F. Gomez and J. Schmidhuber. Connectionist temporal classification: labelling
-unsegmented sequence data with recurrent neural networks. Proceedings of the 23rd International Conference on 
-Machine Learning (ICML'06), p.369-376, 2006
+[1] A. Graves, S. Fernandez, F. Gomez and J. Schmidhuber. Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks. Proceedings of the 23rd International Conference on Machine Learning (ICML'06), p.369-376, 2006
 
-[2] A. Graves and J. Schmidhuber. Offline handwriting recognition with multidimensional recurrent neural networks.
-Proceedings of the 21st International Conference on Neural Information Processing Systems (NIPS'08), p.545-552, 2008
+[2] A. Graves and J. Schmidhuber. Offline handwriting recognition with multidimensional recurrent neural networks. Proceedings of the 21st International Conference on Neural Information Processing Systems (NIPS'08), p.545-552, 2008
 
 [3] https://github.com/AakashKumarNain/CaptchaCracker
 
